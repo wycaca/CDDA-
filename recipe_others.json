@@ -1,0 +1,32 @@
+[
+{
+  "type" : "recipe",
+  "result": "jdjn",
+  "category": "CC_OTHER",
+  "subcategory": "CSC_OTHER_OTHER",
+  "difficulty": 0,
+  "time": 100,
+  "reversible": false,
+  "autolearn": true,
+  "components":[
+	 [
+      [ "scrap", 1 ]
+	 ]
+   ]
+}, {
+  "type" : "recipe",
+  "result": "kjjz",
+  "category": "CC_OTHER",
+  "subcategory": "CSC_OTHER_OTHER",
+  "difficulty": 0,
+  "time": 100,
+  "reversible": false,
+  "autolearn": true,
+  "flags": ["BLIND_EASY"],
+  "components": [
+    [
+     [ "scrap", 1]
+    ]
+  ]
+}
+]

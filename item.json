@@ -1,0 +1,53 @@
+[
+    {
+    "id": "jdjn",
+    "type": "TOOL",
+    "symbol": "0",
+    "color": "light_gray",
+    "name": "基地胶囊",
+    "description": "龙珠中的胶囊技术实现了！只要按一下，基地就会出现啦！",
+    "price": 350000,
+    "material": "plastic",
+    "weight": 10,
+    "volume": 10,
+    "bashing": 10,
+    "cutting": 1,
+    "to_hit": 1,
+    "max_charges": 0,
+    "initial_charges": 0,
+    "charges_per_use": 0,
+    "turns_per_charge": 0,
+    "ammo": "NULL",
+    "revert_to": "null",
+    "use_action": {
+      "type": "unfold_vehicle",
+      "vehicle_name": "jd",
+      "tools_needed" : {},
+      "unfold_msg": "你使用了胶囊，砰的一声，基地出现在你的脚下！",
+      "moves": 150
+    }
+  },
+  {        
+    "id" : "kjjz",
+    "type" : "ARMOR",
+    "name" : "空间戒指",
+    "volume" : 1,
+    "material_thickness" : 0,
+    "storage" : 255,
+    "description" : "你还在为储存空间不足而感到蛋疼吗,现在只要998空间戒指带回家(限量版土豪金哦)",
+    "weight" : 0,
+    "to_hit" : 0,
+    "color" : "yellow",
+    "encumbrance" : 0,
+    "price" : 30000,
+    "material" : "gold",
+    "coverage" : 0,
+    "symbol" : "o",
+    "bashing" : 1,
+    "cutting" : 1,
+    "warmth" : 1,
+    "environmental_protection" : 70,
+    "phase" : "solid",
+    "flags" : ["FANCY"]
+ }
+]
